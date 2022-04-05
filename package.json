@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Auzz24/deep-thoughts.git"
+    "url": "git+https://github.com/Auzz24/Book-search.git"
   },
   "bugs": {
-    "url": "https://github.com/Auzz24/deep-thoughts/issues"
+    "url": "https://github.com/Auzz24/Book-search/issues"
   },
-  "homepage": "https://github.com/Auzz24/deep-thoughts#readme"
+  "homepage": "https://github.com/Auzz24/Book-search#readme"
 }
